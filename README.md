@@ -1,4 +1,4 @@
-# simple-component-library
+# editable-line
 Ediatable text component for Reactjs. Uses two elements to edit texts: `Textarea` and `Input`.
 
 
